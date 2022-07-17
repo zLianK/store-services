@@ -6,7 +6,12 @@
 
   <groupId>com.lk</groupId>
   <artifactId>store-services</artifactId>
+  <packaging>pom</packaging>
   <version>1.0-SNAPSHOT</version>
+
+  <modules>
+    <module>customer</module>
+  </modules>
 
   <name>store-services</name>
   <url>https://github.com/zLianK/store-services</url>
